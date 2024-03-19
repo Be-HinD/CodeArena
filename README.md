@@ -2,7 +2,7 @@
 
 ## 🎥 시연영상
 
-### >> https://codearena.shop/ <<
+### >> ~~https://codearena.shop/~~ <<
 
 ## 🪪 개요
 
